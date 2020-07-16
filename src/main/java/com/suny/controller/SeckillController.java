@@ -18,7 +18,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 /**
- * Created by 孙建荣 on 17-5-24.下午10:11
+ * Created by 孙建荣 on 17-5-24.下午10:11 啊啊啊
  */
 @Controller
 @RequestMapping("/seckill")
